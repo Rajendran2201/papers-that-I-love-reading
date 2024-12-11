@@ -6,10 +6,10 @@ Welcome to my repository of research papers! This collection showcases papers th
 
 | Paper Title                         | Where to find the paper?                                             | A Quick read                      |
 |-------------------------------------|-----------------------------------------------------|------------------------------------------|
-|    cds               | [PDF](https://example.com/paper1.pdf)              | [Explanation](https://example.com/expl1) |
+|   A Few Useful Things to Know about Machine Learning - Explained              | [PDF](https://github.com/Rajendran2201/papers-that-I-love-reading/blob/main/A%20Few%20Useful%20Things%20to%20Know%20about%20Machine%20Learning%20-%20Explained/A%20Few%20Useful%20Things%20to%20Know%20about%20Machine%20Learning.pdf)              | [Explanation](https://github.com/Rajendran2201/papers-that-I-love-reading/blob/main/A%20Few%20Useful%20Things%20to%20Know%20about%20Machine%20Learning%20-%20Explained/A%20Few%20Useful%20Things%20to%20Know%20about%20Machine%20Learning%20-%20Explained.md) |
 
 
-> **Note:** More papers will be added to this table as I continue exploring and reviewing research.
+
 
 ## How to Contribute
 If you have suggestions for papers to include or want to discuss the ideas presented, feel free to:
