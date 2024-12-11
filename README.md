@@ -1,6 +1,6 @@
 # Research Papers That I Love Reading
 
-Welcome to my repository of research papers! This collection showcases papers that have inspired me, sparked curiosity, and deepened my understanding of various topics in computer science and beyond. Each paper is accompanied by a PDF link for access and a personal explanation that captures my interpretation and takeaways.
+Welcome to my repository of research papers! This collection showcases papers that have inspired me, sparked curiosity, and deepened my understanding of various topics in computer science and beyond.
 
 ## Table of Papers
 
