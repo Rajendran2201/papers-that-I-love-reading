@@ -2,15 +2,6 @@
 
 Welcome to my repository of research papers! This collection showcases papers that have inspired me, sparked curiosity, and deepened my understanding of various topics in computer science and beyond. Each paper is accompanied by a PDF link for access and a personal explanation that captures my interpretation and takeaways.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Table of Papers](#table-of-papers)
-- [How to Contribute](#how-to-contribute)
-- [License](#license)
-
-## Introduction
-Research papers play a vital role in shaping innovation and advancing knowledge. This repository serves as a personal archive and a way to share my enthusiasm for groundbreaking ideas with others. 
-
 ## Table of Papers
 
 | Paper Title                         | Where to find the paper?                                             | A Quick read                      |
